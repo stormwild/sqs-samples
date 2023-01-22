@@ -33,4 +33,10 @@ RIDER_IGNORE=$(curl https://raw.githubusercontent.com/JetBrains/resharper-rider-
 
 [Safe storage of app secrets in development in ASP.NET Core | Microsoft Learn'](https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-7.0&tabs=windows)
 
+[Using User Secrets Configuration In .NET - .NET Core Tutorials](https://dotnetcoretutorials.com/2022/04/28/using-user-secrets-configuration-in-net/#:~:text=By%20far%20the%20easiest%20way,Easy!)
+
+```shell
+Install-Package  Microsoft.Extensions.Configuration.UserSecrets
+```
+
 [Preserve Linebreaks When Storing Command Output to a Variable | Baeldung on Linux](https://www.baeldung.com/linux/variable-preserve-linebreaks)
