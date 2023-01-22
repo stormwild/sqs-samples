@@ -37,6 +37,7 @@ RIDER_IGNORE=$(curl https://raw.githubusercontent.com/JetBrains/resharper-rider-
 
 ```shell
 Install-Package  Microsoft.Extensions.Configuration.UserSecrets
+dotnet add package Microsoft.Extensions.Configuration.UserSecrets --version 7.0.0
 ```
 
 [Preserve Linebreaks When Storing Command Output to a Variable | Baeldung on Linux](https://www.baeldung.com/linux/variable-preserve-linebreaks)
