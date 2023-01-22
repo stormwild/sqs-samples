@@ -2,6 +2,14 @@
 
 [Build an AWS SQS Background Service with .NET 5 — Part 1](https://medium.com/nuages-org/aws-sqs-background-service-net-5-part-1-63e3e730e3a2)
 
+[Amazon SQS For the .NET Developer: How to Easily Get Started](https://www.rahulpnath.com/blog/amazon-sqs/)
+
+[Getting started with Queues in .NET using AWS SQS - YouTube](https://youtu.be/7OfUi3h-wmM)
+
+[eneric Message Queue implementation using AWS SQS and .Net 6 BackgroundService](https://genesystems.io/generic-message-queue-implementation-using-aws-sqs-and-net-6-backgroundservice/)
+
+[MassTransit (Playlist)](https://youtu.be/dxHNAn69x6w)
+
 ## Notes
 
 ```shell
