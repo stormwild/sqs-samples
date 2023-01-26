@@ -6,7 +6,7 @@
 
 [Getting started with Queues in .NET using AWS SQS - YouTube](https://youtu.be/7OfUi3h-wmM)
 
-[eneric Message Queue implementation using AWS SQS and .Net 6 BackgroundService](https://genesystems.io/generic-message-queue-implementation-using-aws-sqs-and-net-6-backgroundservice/)
+[Generic Message Queue implementation using AWS SQS and .Net 6 BackgroundService](https://genesystems.io/generic-message-queue-implementation-using-aws-sqs-and-net-6-backgroundservice/)
 
 [MassTransit (Playlist)](https://youtu.be/dxHNAn69x6w)
 
@@ -23,7 +23,8 @@ dotnet user-secrets set "AWS:SQS:SecretKey" SECRET
 curl https://raw.githubusercontent.com/github/gitignore/main/VisualStudio.gitignore -o .gitignore
 curl https://raw.githubusercontent.com/JetBrains/resharper-rider-samples/master/.gitignore -o rider.ignore && cat rider.ignore >> .gitignore && rm rider.ignore
 ```
-or 
+
+or
 
 ```shell
 RIDER_IGNORE=$(curl https://raw.githubusercontent.com/JetBrains/resharper-rider-samples/master/.gitignore) && echo "$RIDER_IGNORE" >> .gitignore
